@@ -18,7 +18,7 @@ const HeroSection = () => {
           <p className="hero-category">INNOVATIVE TRAINING</p>
           <h1 className="hero-title">Step into the World of K9 Excellence</h1>
           <p className="hero-description">
-            Unlock your dog's potential with expert training crafted for obedience, agility, and a stronger bond.
+            Unlock your dog&apos; potential with expert training crafted for obedience, agility, and a stronger bond.
           </p>
           <button className="hero-btn">Explore Training Programs</button>
         </motion.div>
