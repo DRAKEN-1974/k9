@@ -17,6 +17,7 @@ const Criteria = () => {
   return (
     <section className="criteria-section">
       <div className="criteria-image">
+        import Image from 'next/image';
         <Image
           src="/images/k9image2.jpg" // Replace with your image path
           alt="Decorative dog element"
